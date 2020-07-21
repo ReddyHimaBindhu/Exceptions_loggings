@@ -1,0 +1,23 @@
+2020-02-25 18:47:24 INFO  Simple_and_Compound_Intrest:11 - Enter principle Amount : 
+2020-02-25 18:47:33 INFO  Simple_and_Compound_Intrest:11 - Enter principle Amount : 
+2020-02-25 19:04:08 INFO  Simple_and_Compound_Intrest:11 - Enter principle Amount :500 
+2020-02-25 19:04:08 INFO  Simple_and_Compound_Intrest:13 - Enter Rate of Interest :10 
+2020-02-25 19:04:08 INFO  Simple_and_Compound_Intrest:15 - Time : 3
+2020-02-25 19:04:08 INFO  Simple_and_Compound_Intrest:19 - Simple Interest : 150
+2020-02-25 19:04:08 INFO  Simple_and_Compound_Intrest:20 - Compound Interest : 166
+2020-02-25 19:05:56 INFO  Simple_and_Compound_Intrest:11 - Enter principle Amount :500 
+2020-02-25 19:05:56 INFO  Simple_and_Compound_Intrest:13 - Enter Rate of Interest :10 
+2020-02-25 19:05:56 INFO  Simple_and_Compound_Intrest:15 - Time : 3
+2020-02-25 19:05:56 INFO  Simple_and_Compound_Intrest:19 - Simple Interest : 150
+2020-02-25 19:05:56 INFO  Simple_and_Compound_Intrest:20 - Compound Interest : 166
+2020-02-25 19:06:43 ERROR Simple_and_Compound_Intrest:11 - Enter principle Amount :500 
+2020-02-25 19:06:44 ERROR Simple_and_Compound_Intrest:13 - Enter Rate of Interest :10 
+2020-02-25 19:06:44 ERROR Simple_and_Compound_Intrest:15 - Time : 3
+2020-02-25 19:06:44 ERROR Simple_and_Compound_Intrest:19 - Simple Interest : 150
+2020-02-25 19:06:44 ERROR Simple_and_Compound_Intrest:20 - Compound Interest : 166
+2020-02-25 19:08:34 ERROR Material_Standard:13 - Enter Material standard : standard materials or above standard materials or high standard materials or high standard materials and fully automated home:
+2020-02-25 19:09:17 INFO  Simple_and_Compound_Intrest:11 - Enter principle Amount :500 
+2020-02-25 19:09:17 INFO  Simple_and_Compound_Intrest:13 - Enter Rate of Interest :10 
+2020-02-25 19:09:17 INFO  Simple_and_Compound_Intrest:15 - Time : 3
+2020-02-25 19:09:17 INFO  Simple_and_Compound_Intrest:19 - Simple Interest : 150
+2020-02-25 19:09:17 INFO  Simple_and_Compound_Intrest:20 - Compound Interest : 166

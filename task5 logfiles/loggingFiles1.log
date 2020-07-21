@@ -1,0 +1,5 @@
+2020-02-25 19:10:16 INFO  Simple_and_Compound_Intrest:11 - Enter principle Amount :500 
+2020-02-25 19:10:16 INFO  Simple_and_Compound_Intrest:13 - Enter Rate of Interest :10 
+2020-02-25 19:10:16 INFO  Simple_and_Compound_Intrest:15 - Time : 3
+2020-02-25 19:10:16 INFO  Simple_and_Compound_Intrest:19 - Simple Interest : 150
+2020-02-25 19:10:16 INFO  Simple_and_Compound_Intrest:20 - Compound Interest : 166
